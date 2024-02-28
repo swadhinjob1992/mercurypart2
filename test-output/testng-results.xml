@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="12" failed="3" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Start->Enter ValidUsername and InvalidPassword, and verify that they are appearing correctly]]>
+    </line>
+    <line>
+      <![CDATA[Enter valid username]]>
+    </line>
+    <line>
+      <![CDATA[Enter Invalid password]]>
+    </line>
+    <line>
+      <![CDATA[Click on loginButton]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Enter InvalidUsername and validPassword, and verify that they are appearing correctly]]>
+    </line>
+    <line>
+      <![CDATA[Enter Invalid username]]>
+    </line>
+    <line>
+      <![CDATA[Enter valid password]]>
+    </line>
+    <line>
+      <![CDATA[Click on loginButton]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Validate the  email error message]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Launch Home page]]>
+    </line>
+    <line>
+      <![CDATA[The Home page was Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start-> Validate Login page tittle]]>
+    </line>
+    <line>
+      <![CDATA[Browser lunch successfully]]>
+    </line>
+    <line>
+      <![CDATA[Validate the tittle of the login page]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete-> The login page tittle has been successfully validate]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Check whether the page is possible to login without providing the user with any details]]>
+    </line>
+    <line>
+      <![CDATA[Do not Enter any Username]]>
+    </line>
+    <line>
+      <![CDATA[Do not Enter any Password]]>
+    </line>
+    <line>
+      <![CDATA[Click on loginButton]]>
+    </line>
+    <line>
+      <![CDATA[Error messsage displyed as This value is required]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed with EmptyUsername and EmptyPassword]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Enter ValidUsername and ValidPassword, and verify that they are appearing correctly]]>
+    </line>
+    <line>
+      <![CDATA[Enter valid username]]>
+    </line>
+    <line>
+      <![CDATA[Enter valid password]]>
+    </line>
+    <line>
+      <![CDATA[Using valid username and valid password, Validate Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Click on loginButton]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Enter all details, and verify that they are appearing correctly and Validate Return and departure date format]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Departure date format is Valid]]>
+    </line>
+    <line>
+      <![CDATA[Return date format is Valid]]>
+    </line>
+    <line>
+      <![CDATA[Click On Search Button]]>
+    </line>
+    <line>
+      <![CDATA[Click on flight details]]>
+    </line>
+    <line>
+      <![CDATA[Flight details validation Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Flight code validation Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Start and End time validation Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed successfully validate  city name, date, flight name, start time and end time ]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Select one more seat]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Select child seat]]>
+    </line>
+    <line>
+      <![CDATA[Click On Search Button]]>
+    </line>
+    <line>
+      <![CDATA[Successfully verified seat details]]>
+    </line>
+    <line>
+      <![CDATA[Test complete Successfully to Select one or more seats and validate]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Check Booking Now Option is Enabled or Disabled]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Click On Search Button]]>
+    </line>
+    <line>
+      <![CDATA[Confirm that the booking button is successfully enabled]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete Successfully to check  if the Booking button is  enabled or disabled]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Enter the city, and verify that they are appearing correctly]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Click On Search Button]]>
+    </line>
+    <line>
+      <![CDATA[Successfully verified Flight availability]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete successfully Selecting city by city code]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Clicks on New Flight name, and Validate the new Flight Details]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Click On Search Button]]>
+    </line>
+    <line>
+      <![CDATA[Click on new flight]]>
+    </line>
+    <line>
+      <![CDATA[Flight details validate successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Completed with Adding new flight details and validation]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Validate seat price details]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[The date format is dd/mm/yyyy successfully validate]]>
+    </line>
+    <line>
+      <![CDATA[Click On Search Button]]>
+    </line>
+    <line>
+      <![CDATA[Validate actual price details]]>
+    </line>
+    <line>
+      <![CDATA[Test complete->Validate the price details successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Start->Select Boarding place and Destination place]]>
+    </line>
+    <line>
+      <![CDATA[Select Boarding place]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding place has been selected]]>
+    </line>
+    <line>
+      <![CDATA[Boarding place is validate successfully]]>
+    </line>
+    <line>
+      <![CDATA[Select destination place]]>
+    </line>
+    <line>
+      <![CDATA[The Destination place has been selected]]>
+    </line>
+    <line>
+      <![CDATA[Destination place is validate successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test complete-> Successfully validate the Boarding place details and Destination place details]]>
+    </line>
+    <line>
+      <![CDATA[Test Start-> Booking a flight]]>
+    </line>
+    <line>
+      <![CDATA[Flight page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Close home page Notification]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Click on Search flights]]>
+    </line>
+    <line>
+      <![CDATA[Flight Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Boarding city is Delhi]]>
+    </line>
+    <line>
+      <![CDATA[The Destination city is GOA]]>
+    </line>
+    <line>
+      <![CDATA[User click on book button]]>
+    </line>
+    <line>
+      <![CDATA[User Validate the Flight name]]>
+    </line>
+    <line>
+      <![CDATA[User validate the flight timing]]>
+    </line>
+    <line>
+      <![CDATA[Select Tittle and name]]>
+    </line>
+    <line>
+      <![CDATA[The passenger selects his seat number]]>
+    </line>
+    <line>
+      <![CDATA[First Seat no is 5B]]>
+    </line>
+    <line>
+      <![CDATA[The passenger enter his Mobile Number]]>
+    </line>
+    <line>
+      <![CDATA[The passenger enter his EmailId]]>
+    </line>
+    <line>
+      <![CDATA[Click on proceedToBooking]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on payment option]]>
+    </line>
+    <line>
+      <![CDATA[User validate the price Details]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete-> The flight booking has been completed]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Start-> Seat pricing validation]]>
+    </line>
+    <line>
+      <![CDATA[Flight page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Close home page Notification]]>
+    </line>
+    <line>
+      <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+    </line>
+    <line>
+      <![CDATA[Click on Search flights]]>
+    </line>
+    <line>
+      <![CDATA[Flight Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[User click on book button]]>
+    </line>
+    <line>
+      <![CDATA[User Validate the Flight name]]>
+    </line>
+    <line>
+      <![CDATA[Select Tittle and name]]>
+    </line>
+    <line>
+      <![CDATA[The passenger selects his First seat]]>
+    </line>
+    <line>
+      <![CDATA[First Seat price is 350]]>
+    </line>
+    <line>
+      <![CDATA[First Seat no is 5B]]>
+    </line>
+    <line>
+      <![CDATA[The passenger selects his Second seat]]>
+    </line>
+    <line>
+      <![CDATA[Second Seat price is 450]]>
+    </line>
+    <line>
+      <![CDATA[Second Seat no is 5A]]>
+    </line>
+    <line>
+      <![CDATA[The passenger enter his Mobile Number]]>
+    </line>
+    <line>
+      <![CDATA[The passenger enter his EmailId]]>
+    </line>
+    <line>
+      <![CDATA[Click on proceedToBooking]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on payment option]]>
+    </line>
+    <line>
+      <![CDATA[User validate the price Details]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete-> Seat pricing validation successfully]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-27T18:50:43Z" name="Test Automation Test Suite" finished-at="2024-02-27T18:57:15Z" duration-ms="391497">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T18:50:43Z" name="Test Cases" finished-at="2024-02-27T18:57:15Z" duration-ms="391497">
+      <class name="mercuryTravels.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:20:43Z" name="setUp" finished-at="2024-02-28T00:20:52Z" duration-ms="9148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidPassword()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:20:52Z" name="invalidPassword" description="Enter ValidUsername and InvalidPassword, and verify that they are appearing correctly" finished-at="2024-02-28T00:21:25Z" duration-ms="32863" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Incorrect email address and password combination. Please try again.']"}
+  (Session info: chrome=121.0.6167.189)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-T0GNIEM2', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.189, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59714}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5d44eaf7e0cb692bfd90f6edb137c2
+*** Element info: {Using=xpath, value=//div[text()='Incorrect email address and password combination. Please try again.']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Incorrect email address and password combination. Please try again.']"}
+  (Session info: chrome=121.0.6167.189)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-T0GNIEM2', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.189, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59714}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec5d44eaf7e0cb692bfd90f6edb137c2
+*** Element info: {Using=xpath, value=//div[text()='Incorrect email address and password combination. Please try again.']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at jdk.proxy2/jdk.proxy2.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.isDisplayed(Unknown Source)
+	at MercuryTravels.qa.pages.LoginPage.validatePasswordErrorMessage(LoginPage.java:87)
+	at mercuryTravels.qa.testcases.LoginPageTest.invalidPassword(LoginPageTest.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Enter ValidUsername and InvalidPassword, and verify that they are appearing correctly]]>
+            </line>
+            <line>
+              <![CDATA[Enter valid username]]>
+            </line>
+            <line>
+              <![CDATA[Enter Invalid password]]>
+            </line>
+            <line>
+              <![CDATA[Click on loginButton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:21:25Z" name="tearDown" finished-at="2024-02-28T00:21:26Z" duration-ms="1235" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:21:26Z" name="setUp" finished-at="2024-02-28T00:21:33Z" duration-ms="6346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidUsername()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:21:33Z" name="invalidUsername" description="Enter InvalidUsername and validPassword, and verify that they are appearing correctly" finished-at="2024-02-28T00:22:05Z" duration-ms="31986" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//li[text() = 'This value should be a valid email.']"}
+  (Session info: chrome=121.0.6167.189)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-T0GNIEM2', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.189, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59791}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f2740a95b26e734b7c06fa34c6639b7
+*** Element info: {Using=xpath, value=//li[text() = 'This value should be a valid email.']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text() = 'This value should be a valid email.']"}
+  (Session info: chrome=121.0.6167.189)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-T0GNIEM2', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.189, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59791}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f2740a95b26e734b7c06fa34c6639b7
+*** Element info: {Using=xpath, value=//li[text() = 'This value should be a valid email.']}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at jdk.proxy2/jdk.proxy2.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at MercuryTravels.qa.pages.LoginPage.validateEmailErrorMessage(LoginPage.java:80)
+	at mercuryTravels.qa.testcases.LoginPageTest.invalidUsername(LoginPageTest.java:69)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Enter InvalidUsername and validPassword, and verify that they are appearing correctly]]>
+            </line>
+            <line>
+              <![CDATA[Enter Invalid username]]>
+            </line>
+            <line>
+              <![CDATA[Enter valid password]]>
+            </line>
+            <line>
+              <![CDATA[Click on loginButton]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Validate the  email error message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:05Z" name="tearDown" finished-at="2024-02-28T00:22:06Z" duration-ms="1273" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:06Z" name="setUp" finished-at="2024-02-28T00:22:11Z" duration-ms="4781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTest()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:11Z" name="loginPageTest" description="Home page login" finished-at="2024-02-28T00:22:11Z" duration-ms="544" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Launch Home page]]>
+            </line>
+            <line>
+              <![CDATA[The Home page was Launch Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:11Z" name="tearDown" finished-at="2024-02-28T00:22:13Z" duration-ms="1150" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:13Z" name="setUp" finished-at="2024-02-28T00:22:15Z" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:15Z" name="loginPageTitleTest" description="Verify login page tittle" finished-at="2024-02-28T00:22:17Z" duration-ms="2117" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start-> Validate Login page tittle]]>
+            </line>
+            <line>
+              <![CDATA[Browser lunch successfully]]>
+            </line>
+            <line>
+              <![CDATA[Validate the tittle of the login page]]>
+            </line>
+            <line>
+              <![CDATA[Test Complete-> The login page tittle has been successfully validate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:17Z" name="tearDown" finished-at="2024-02-28T00:22:18Z" duration-ms="1336" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:18Z" name="setUp" finished-at="2024-02-28T00:22:24Z" duration-ms="5439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithoutAnyDetails()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:24Z" name="loginWithoutAnyDetails" description="Check whether the page is possible to login without providing the user with any details" finished-at="2024-02-28T00:22:25Z" duration-ms="1274" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Check whether the page is possible to login without providing the user with any details]]>
+            </line>
+            <line>
+              <![CDATA[Do not Enter any Username]]>
+            </line>
+            <line>
+              <![CDATA[Do not Enter any Password]]>
+            </line>
+            <line>
+              <![CDATA[Click on loginButton]]>
+            </line>
+            <line>
+              <![CDATA[Error messsage displyed as This value is required]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed with EmptyUsername and EmptyPassword]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginWithoutAnyDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:25Z" name="tearDown" finished-at="2024-02-28T00:22:26Z" duration-ms="933" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:26Z" name="setUp" finished-at="2024-02-28T00:22:30Z" duration-ms="4550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validUsernameAndValidPassword()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:22:30Z" name="validUsernameAndValidPassword" description="Enter ValidUsername and password, and verify that they are appearing correctly" finished-at="2024-02-28T00:23:08Z" duration-ms="37243" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//a[text() = 'Welcome, Mohit '])[2]"}
+  (Session info: chrome=121.0.6167.189)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-T0GNIEM2', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.189, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59961}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 508fd01f70c16cb3961174950fe23e03
+*** Element info: {Using=xpath, value=(//a[text() = 'Welcome, Mohit '])[2]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[text() = 'Welcome, Mohit '])[2]"}
+  (Session info: chrome=121.0.6167.189)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-T0GNIEM2', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.189, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59961}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 508fd01f70c16cb3961174950fe23e03
+*** Element info: {Using=xpath, value=(//a[text() = 'Welcome, Mohit '])[2]}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at jdk.proxy2/jdk.proxy2.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at MercuryTravels.qa.pages.LoginPage.validateLoginDetails(LoginPage.java:70)
+	at mercuryTravels.qa.testcases.LoginPageTest.validUsernameAndValidPassword(LoginPageTest.java:56)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Enter ValidUsername and ValidPassword, and verify that they are appearing correctly]]>
+            </line>
+            <line>
+              <![CDATA[Enter valid username]]>
+            </line>
+            <line>
+              <![CDATA[Enter valid password]]>
+            </line>
+            <line>
+              <![CDATA[Using valid username and valid password, Validate Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click on loginButton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validUsernameAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.LoginPageTest@6b8ca3c8]" started-at="2024-02-28T00:23:08Z" name="tearDown" finished-at="2024-02-28T00:23:09Z" duration-ms="1215" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mercuryTravels.qa.testcases.LoginPageTest -->
+      <class name="mercuryTravels.qa.testcases.SearchAllDetailsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:09Z" name="setUp" finished-at="2024-02-28T00:23:15Z" duration-ms="6102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="flightSearch()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:15Z" name="flightSearch" description="Enter the names, and verify that they are appearing correctly and Validate Return and departure date format" finished-at="2024-02-28T00:23:39Z" duration-ms="24183" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Enter all details, and verify that they are appearing correctly and Validate Return and departure date format]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Departure date format is Valid]]>
+            </line>
+            <line>
+              <![CDATA[Return date format is Valid]]>
+            </line>
+            <line>
+              <![CDATA[Click On Search Button]]>
+            </line>
+            <line>
+              <![CDATA[Click on flight details]]>
+            </line>
+            <line>
+              <![CDATA[Flight details validation Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Flight code validation Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Start and End time validation Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed successfully validate  city name, date, flight name, start time and end time ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flightSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:39Z" name="tearDown" finished-at="2024-02-28T00:23:40Z" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:40Z" name="setUp" finished-at="2024-02-28T00:23:46Z" duration-ms="6437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectDifferentTypeOfSeat()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:46Z" name="selectDifferentTypeOfSeat" description="Select one more seat" finished-at="2024-02-28T00:23:55Z" duration-ms="8562" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Select one more seat]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Select child seat]]>
+            </line>
+            <line>
+              <![CDATA[Click On Search Button]]>
+            </line>
+            <line>
+              <![CDATA[Successfully verified seat details]]>
+            </line>
+            <line>
+              <![CDATA[Test complete Successfully to Select one or more seats and validate]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectDifferentTypeOfSeat -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:55Z" name="tearDown" finished-at="2024-02-28T00:23:57Z" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:23:57Z" name="setUp" finished-at="2024-02-28T00:24:03Z" duration-ms="5876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateBookingButton()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:03Z" name="validateBookingButton" description="Check Booking Now Option is Enabled or Disabled" finished-at="2024-02-28T00:24:17Z" duration-ms="14044" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Check Booking Now Option is Enabled or Disabled]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Click On Search Button]]>
+            </line>
+            <line>
+              <![CDATA[Confirm that the booking button is successfully enabled]]>
+            </line>
+            <line>
+              <![CDATA[Test Complete Successfully to check  if the Booking button is  enabled or disabled]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateBookingButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:17Z" name="tearDown" finished-at="2024-02-28T00:24:18Z" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:18Z" name="setUp" finished-at="2024-02-28T00:24:22Z" duration-ms="3958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCityName()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:22Z" name="validateCityName" description="Enter the city, and verify that they are appearing correctly and Check application wheteher is shwoing the availablity of the flight with date and timings of the departure" finished-at="2024-02-28T00:24:32Z" duration-ms="9985" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Enter the city, and verify that they are appearing correctly]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Click On Search Button]]>
+            </line>
+            <line>
+              <![CDATA[Successfully verified Flight availability]]>
+            </line>
+            <line>
+              <![CDATA[Test Complete successfully Selecting city by city code]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateCityName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:32Z" name="tearDown" finished-at="2024-02-28T00:24:32Z" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:32Z" name="setUp" finished-at="2024-02-28T00:24:37Z" duration-ms="4210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateFlightName()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:37Z" name="validateFlightName" description="Clicks on New Flight name, and Validate the new Flight Details" finished-at="2024-02-28T00:24:51Z" duration-ms="14218" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Clicks on New Flight name, and Validate the new Flight Details]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Click On Search Button]]>
+            </line>
+            <line>
+              <![CDATA[Click on new flight]]>
+            </line>
+            <line>
+              <![CDATA[Flight details validate successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test Completed with Adding new flight details and validation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateFlightName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SearchAllDetailsPageTest@68c72235]" started-at="2024-02-28T00:24:51Z" name="tearDown" finished-at="2024-02-28T00:24:54Z" duration-ms="3615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mercuryTravels.qa.testcases.SearchAllDetailsPageTest -->
+      <class name="mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest@10959ece]" started-at="2024-02-28T00:24:54Z" name="setUp" finished-at="2024-02-28T00:25:00Z" duration-ms="5295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateDifferentTypeOfSeat()[pri:0, instance:mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest@10959ece]" started-at="2024-02-28T00:25:00Z" name="validateDifferentTypeOfSeat" description="Validate seat price details" finished-at="2024-02-28T00:25:16Z" duration-ms="16094" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Validate seat price details]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[The date format is dd/mm/yyyy successfully validate]]>
+            </line>
+            <line>
+              <![CDATA[Click On Search Button]]>
+            </line>
+            <line>
+              <![CDATA[Validate actual price details]]>
+            </line>
+            <line>
+              <![CDATA[Test complete->Validate the price details successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateDifferentTypeOfSeat -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest@10959ece]" started-at="2024-02-28T00:25:16Z" name="tearDown" finished-at="2024-02-28T00:25:19Z" duration-ms="3525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest@10959ece]" started-at="2024-02-28T00:25:19Z" name="setUp" finished-at="2024-02-28T00:25:25Z" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateFlightField()[pri:0, instance:mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest@10959ece]" started-at="2024-02-28T00:25:25Z" name="validateFlightField" description="Validate Boarding Place and Destination PLace" finished-at="2024-02-28T00:25:27Z" duration-ms="1557" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start->Select Boarding place and Destination place]]>
+            </line>
+            <line>
+              <![CDATA[Select Boarding place]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding place has been selected]]>
+            </line>
+            <line>
+              <![CDATA[Boarding place is validate successfully]]>
+            </line>
+            <line>
+              <![CDATA[Select destination place]]>
+            </line>
+            <line>
+              <![CDATA[The Destination place has been selected]]>
+            </line>
+            <line>
+              <![CDATA[Destination place is validate successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test complete-> Successfully validate the Boarding place details and Destination place details]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateFlightField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest@10959ece]" started-at="2024-02-28T00:25:27Z" name="tearDown" finished-at="2024-02-28T00:25:28Z" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mercuryTravels.qa.testcases.FlightsAllFieldValidationPageTest -->
+      <class name="mercuryTravels.qa.testcases.SeatBookingPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SeatBookingPageTest@3a6bb9bf]" started-at="2024-02-28T00:25:28Z" name="setUp" finished-at="2024-02-28T00:25:32Z" duration-ms="4496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnFlights()[pri:0, instance:mercuryTravels.qa.testcases.SeatBookingPageTest@3a6bb9bf]" started-at="2024-02-28T00:25:32Z" name="clickOnFlights" description="Flights Booking" finished-at="2024-02-28T00:26:15Z" duration-ms="43020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start-> Booking a flight]]>
+            </line>
+            <line>
+              <![CDATA[Flight page is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Close home page Notification]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Click on Search flights]]>
+            </line>
+            <line>
+              <![CDATA[Flight Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Boarding city is Delhi]]>
+            </line>
+            <line>
+              <![CDATA[The Destination city is GOA]]>
+            </line>
+            <line>
+              <![CDATA[User click on book button]]>
+            </line>
+            <line>
+              <![CDATA[User Validate the Flight name]]>
+            </line>
+            <line>
+              <![CDATA[User validate the flight timing]]>
+            </line>
+            <line>
+              <![CDATA[Select Tittle and name]]>
+            </line>
+            <line>
+              <![CDATA[The passenger selects his seat number]]>
+            </line>
+            <line>
+              <![CDATA[First Seat no is 5B]]>
+            </line>
+            <line>
+              <![CDATA[The passenger enter his Mobile Number]]>
+            </line>
+            <line>
+              <![CDATA[The passenger enter his EmailId]]>
+            </line>
+            <line>
+              <![CDATA[Click on proceedToBooking]]>
+            </line>
+            <line>
+              <![CDATA[User clicks on payment option]]>
+            </line>
+            <line>
+              <![CDATA[User validate the price Details]]>
+            </line>
+            <line>
+              <![CDATA[Test Complete-> The flight booking has been completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnFlights -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SeatBookingPageTest@3a6bb9bf]" started-at="2024-02-28T00:26:15Z" name="tearDown" finished-at="2024-02-28T00:26:17Z" duration-ms="2162" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:mercuryTravels.qa.testcases.SeatBookingPageTest@3a6bb9bf]" started-at="2024-02-28T00:26:17Z" name="setUp" finished-at="2024-02-28T00:26:23Z" duration-ms="5384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSeatPricing()[pri:0, instance:mercuryTravels.qa.testcases.SeatBookingPageTest@3a6bb9bf]" started-at="2024-02-28T00:26:23Z" name="validateSeatPricing" description="Seat pricing validation" finished-at="2024-02-28T00:27:13Z" duration-ms="50350" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Start-> Seat pricing validation]]>
+            </line>
+            <line>
+              <![CDATA[Flight page is displayed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Close home page Notification]]>
+            </line>
+            <line>
+              <![CDATA[Select date, The date format in dd/mm/yyyy]]>
+            </line>
+            <line>
+              <![CDATA[Click on Search flights]]>
+            </line>
+            <line>
+              <![CDATA[Flight Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[User click on book button]]>
+            </line>
+            <line>
+              <![CDATA[User Validate the Flight name]]>
+            </line>
+            <line>
+              <![CDATA[Select Tittle and name]]>
+            </line>
+            <line>
+              <![CDATA[The passenger selects his First seat]]>
+            </line>
+            <line>
+              <![CDATA[First Seat price is 350]]>
+            </line>
+            <line>
+              <![CDATA[First Seat no is 5B]]>
+            </line>
+            <line>
+              <![CDATA[The passenger selects his Second seat]]>
+            </line>
+            <line>
+              <![CDATA[Second Seat price is 450]]>
+            </line>
+            <line>
+              <![CDATA[Second Seat no is 5A]]>
+            </line>
+            <line>
+              <![CDATA[The passenger enter his Mobile Number]]>
+            </line>
+            <line>
+              <![CDATA[The passenger enter his EmailId]]>
+            </line>
+            <line>
+              <![CDATA[Click on proceedToBooking]]>
+            </line>
+            <line>
+              <![CDATA[User clicks on payment option]]>
+            </line>
+            <line>
+              <![CDATA[User validate the price Details]]>
+            </line>
+            <line>
+              <![CDATA[Test Complete-> Seat pricing validation successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateSeatPricing -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mercuryTravels.qa.testcases.SeatBookingPageTest@3a6bb9bf]" started-at="2024-02-28T00:27:13Z" name="tearDown" finished-at="2024-02-28T00:27:15Z" duration-ms="1633" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mercuryTravels.qa.testcases.SeatBookingPageTest -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Test Automation Test Suite -->
+</testng-results>

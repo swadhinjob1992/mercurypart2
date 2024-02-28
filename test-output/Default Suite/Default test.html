@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Feb 27 23:51:44 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>97 seconds (97376 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='mercuryTravels.qa.testcases.SeatBookingPageTest.validateSeatPricing()'><b>validateSeatPricing</b><br>Test class: mercuryTravels.qa.testcases.SeatBookingPageTest<br>Test method: Seat pricing validation<br/>
+<a href="#Output-1244775150" onClick='toggleBox("Output-1244775150", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1244775150" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1244775150">
+Test Start-> Seat pricing validation<br/>
+Flight page is displayed successfully<br/>
+Close home page Notification<br/>
+Select date, The date format in dd/mm/yyyy<br/>
+Click on Search flights<br/>
+Flight Page is displayed<br/>
+User click on book button<br/>
+User Validate the Flight name<br/>
+Select Tittle and name<br/>
+The passenger selects his First seat<br/>
+First Seat price is 350<br/>
+First Seat no is 5B<br/>
+The passenger selects his Second seat<br/>
+Second Seat price is 450<br/>
+Second Seat no is 5A<br/>
+The passenger enter his Mobile Number<br/>
+The passenger enter his EmailId<br/>
+Click on proceedToBooking<br/>
+User clicks on payment option<br/>
+User validate the price Details<br/>
+Test Complete-> Seat pricing validation successfully<br/>
+</div>
+</td>
+<td></td>
+<td>76</td>
+<td>mercuryTravels.qa.testcases.SeatBookingPageTest@1838ccb8</td></tr>
+</table><p>
+</body>
+</html>
